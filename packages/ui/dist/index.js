@@ -49,7 +49,7 @@ var CounterButton = () => {
       borderRadius: `8px`,
       padding: 16
     }
-  }, /* @__PURE__ */ React2.createElement("p", null, "This is component iadasdfsdfdffsfsds from ", /* @__PURE__ */ React2.createElement("code", null, "ui")), /* @__PURE__ */ React2.createElement("p", null, /* @__PURE__ */ React2.createElement("button", {
+  }, /* @__PURE__ */ React2.createElement("p", null, "This is component lada-ladiloa. okay from ", /* @__PURE__ */ React2.createElement("code", null, "ui")), /* @__PURE__ */ React2.createElement("p", null, /* @__PURE__ */ React2.createElement("button", {
     type: "button",
     onClick: () => setCount((c) => c + 1)
   }, "count ", count)));
